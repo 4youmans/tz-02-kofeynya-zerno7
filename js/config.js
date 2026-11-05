@@ -1,2 +1,2 @@
 /* Заполнить перед публикацией. Здесь только публичные настройки. */
-window.ZERNO_CONFIG = Object.freeze({measurementId: 'G-DZ9Q9WGPLJ', leadEndpoint: '', siteUrl: 'https://tz-02-kofeynya-zerno7.vercel.app', social: {instagram:'', vk:'', telegram:'', youtube:''}, messengers:{telegram:'', whatsapp:''}});
+window.ZERNO_CONFIG = Object.freeze({measurementId: 'G-DZ9Q9WGPLJ', leadEndpoint: 'https://script.google.com/macros/s/AKfycbw04ViwBJzHek57KmYZPgAiBeTesDPadt2-mcoup87O-H5CiO3VWc-00x0bynhcKhIzhw/exec', siteUrl: 'https://tz-02-kofeynya-zerno7.vercel.app', social: {instagram:'', vk:'', telegram:'', youtube:''}, messengers:{telegram:'', whatsapp:''}});
