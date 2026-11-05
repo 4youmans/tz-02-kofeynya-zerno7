@@ -1,23 +1,25 @@
-# Зерно 7
+# Зерно 7 — кофейня и школа бариста
+
+Курсовая работа по учебному кейсу ТЗ-02/2026. Автор — Паюсов Семен Игоревич, группа РПО 2\25.
 
 | Материал | Ссылка или состояние |
 |---|---|
 | Сайт Vercel | [Открыть сайт](https://tz-02-kofeynya-zerno7.vercel.app/) |
+| Курсовая работа | [Скачать PDF](docs/kursovaya_zerno7_payusov.pdf) |
+| Google Analytics 4 | [Отчёт в реальном времени](https://analytics.google.com/analytics/web/#/a407359702p562534595/realtime/overview) |
 | Google Таблица | Подключена. Тестовая заявка с сайта сохранена на листе `leads` |
 | Data Studio | Требуется подключить источники и собрать отчёт |
 | Социальные публикации и Reel | Не размещены |
 | Описание курсовой | [docs/opisanie.md](docs/opisanie.md) |
 | Схема | [docs/scheme.png](docs/scheme.png) |
 | Шаблон таблицы заявок, CRM и UTM | [docs/zerno7-leads.xlsx](docs/zerno7-leads.xlsx) |
-| Презентация текущего этапа | [PDF](presentation/zashchita.pdf) · [PowerPoint](presentation/zashchita.pptx) |
+| Презентация к защите | [PDF](presentation/zashchita.pdf) · [PowerPoint](presentation/zashchita.pptx) |
 | Запуск и подключения | [docs/setup.md](docs/setup.md) |
 | Недостающий контент | [docs/content-gaps.md](docs/content-gaps.md) |
 
-Паюсов Семен Игоревич, РПО 2\25. Учебный кейс ТЗ-02/2026.
-
 Подготовлены восемь основных HTML-страниц и 404, адаптивные стили, тест выбора курса, расписание, фильтр меню, гайд и форма, событийная аналитика, приёмник Apps Script с валидацией и блокировкой конкурентной записи. Сайт без сборки. Настройки внешних аккаунтов находятся в js/config.js.
 
-GA4: [веб-поток «Зерно 7 — сайт»](https://analytics.google.com/analytics/web/#/a407359702p562534595/admin/streams/table), Measurement ID: `G-DZ9Q9WGPLJ`. Доступ Viewer к GA4: не выдавался.
+GA4 получил просмотр страницы (`page_view`) и тестовый клик по кнопке записи (`cta_click`). Идентификатор измерения — `G-DZ9Q9WGPLJ`. Доступ Viewer к GA4 пока не выдавался.
 
 Локальные проверки: `node tests/receiver.test.cjs`; синтаксис `node --check js/analytics.js` (также site.js, form.js). Результаты и границы проверки — docs/verification.md.
 
@@ -26,5 +28,3 @@ GA4: [веб-поток «Зерно 7 — сайт»](https://analytics.google.
 На опубликованном сайте проверена отправка тестовой заявки с вымышленными данными. Сайт показал подтверждение, а в строке 2 листа `leads` появилась запись «Тест Зерно QA».
 
 Остаются подключения ManyChat, HubSpot и Data Studio, реальные публикации и проверка полного каталога. Недостающие исходные данные перечислены отдельно.
-
-Нейросеть использовалась для: подготовки кода сайта и приёмника, текста описания, иллюстраций и инструкций. История запросов и её ограничения — docs/prompts.md.
