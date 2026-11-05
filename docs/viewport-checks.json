@@ -1,0 +1,189 @@
+[
+  {
+    "page": "index.html",
+    "target": 375,
+    "heading": "Кофе начинается\nс ваших рук",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "courses.html",
+    "target": 375,
+    "heading": "Найдите свой способ\nготовить кофе",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "menu.html",
+    "target": 375,
+    "heading": "Кофе на каждый день",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "beans.html",
+    "target": 375,
+    "heading": "Хороший кофе\nостаётся с вами",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "latte-guide.html",
+    "target": 375,
+    "heading": "Сердце на капучино\nза 5 шагов",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "contacts.html",
+    "target": 375,
+    "heading": "Сделайте первый шаг",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "thanks.html",
+    "target": 375,
+    "heading": "Спасибо за интерес\nк школе бариста",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "privacy.html",
+    "target": 375,
+    "heading": "Политика\nконфиденциальности",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "404.html",
+    "target": 375,
+    "heading": "Этот путь\nещё не заварен",
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "index.html",
+    "target": 768,
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "courses.html",
+    "target": 768,
+    "heading": "Найдите свой способ\nготовить кофе",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "menu.html",
+    "target": 768,
+    "heading": "Кофе на каждый день",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "beans.html",
+    "target": 768,
+    "heading": "Хороший кофе\nостаётся с вами",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "latte-guide.html",
+    "target": 768,
+    "heading": "Сердце на капучино\nза 5 шагов",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "contacts.html",
+    "target": 768,
+    "heading": "Сделайте первый шаг",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "thanks.html",
+    "target": 768,
+    "heading": "Спасибо за интерес\nк школе бариста",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "privacy.html",
+    "target": 768,
+    "heading": "Политика\nконфиденциальности",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "page": "404.html",
+    "target": 768,
+    "heading": "Этот путь\nещё не заварен",
+    "scroll": 768,
+    "width": 768
+  },
+  {
+    "page": "index.html",
+    "target": 1280,
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "courses.html",
+    "target": 1280,
+    "heading": "Найдите свой способ\nготовить кофе",
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "menu.html",
+    "target": 1280,
+    "heading": "Кофе на каждый день",
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "beans.html",
+    "target": 1280,
+    "heading": "Хороший кофе\nостаётся с вами",
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "latte-guide.html",
+    "target": 1280,
+    "heading": "Сердце на капучино\nза 5 шагов",
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "contacts.html",
+    "target": 1280,
+    "heading": "Сделайте первый шаг",
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "thanks.html",
+    "target": 1280,
+    "heading": "Спасибо за интерес\nк школе бариста",
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "privacy.html",
+    "target": 1280,
+    "heading": "Политика\nконфиденциальности",
+    "scroll": 1265,
+    "width": 1280
+  },
+  {
+    "page": "404.html",
+    "target": 1280,
+    "heading": "Этот путь\nещё не заварен",
+    "scroll": 1265,
+    "width": 1280
+  }
+]
